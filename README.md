@@ -164,8 +164,7 @@ enterprise-chatbot/
 │   └── enhanced_streamlit_chatbot.py   # Multi-MCP client
 │
 ├── 🖥️ User Interface
-│   ├── fixed_streamlit_app.py          # Main Streamlit application
-│   └── paste.txt                       # System architecture diagram
+│   └── fixed_streamlit_app.py          # Main Streamlit application
 │
 ├── 🏗️ MCP Servers
 │   ├── servicenow_mcp_server.py        # ServiceNow ticket management
